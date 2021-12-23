@@ -1,4 +1,5 @@
-# Visit Github Pages to access the deployed code [https://faizan-aka.github.io/usememo]
+# Visit Github Pages to access the deployed code
+[https://faizan-aka.github.io/usememo]
 
 # Getting Started with Create React App
 
